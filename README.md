@@ -33,7 +33,3 @@ The internship helped me explore and practice real-world design principles using
 
 ## 📌 About CodSoft
 [CodSoft](https://www.codsoft.in/) provides virtual internships that allow students and professionals to apply their skills on real-world tasks, enhancing practical knowledge and portfolio building.
-
----
-
-## 📂 Repository Structure
